@@ -119,7 +119,43 @@ namespace Arrays
 
             // Strings
             Console.WriteLine("\n---------String--------------");
+            string s1 = "Hello";
+            Char[] ch = { 'D', 'i', 'm', 'p', 'l', 'e' };
+            string charArrayToString = new string(ch);
+            string clone = (String)charArrayToString.Clone();     // clone returns another copy of same data
+            string concat = " Verma";
 
+            Console.WriteLine("Simple String: " + s1);
+            Console.WriteLine("Character array can be assigned to a string: " + charArrayToString);
+            Console.WriteLine("Cloning a string: " + clone);
+
+            // comparing strings : If both strings are equal, it returns 0. If first string is greater than second string, it returns 1 else it returns -1.
+            Console.WriteLine("Comparing strings: " + string.Compare(charArrayToString, clone));
+            Console.WriteLine("Comparing strings: " + string.Compare(charArrayToString, s1));
+
+            // Concatinating strings:
+            Console.WriteLine("Concatinating two strings: " + string.Concat(clone, concat));
+
+            // Contains():  used to return a value indicating whether the specified substring occurs within this string or not.
+            Console.WriteLine("If string contains `rma': " + concat.Contains("rma"));
+
+            //Insert(): is used to insert the specified string at specified index number.
+            Console.WriteLine("Inserting `Dinky` into string: " + clone.Insert(6, " is a messy girl."));
+            Console.WriteLine("Converting string to uppercase: " + clone.ToUpper());
+            Console.WriteLine("Converting string to lowercase: " + clone.ToLower());
+            Console.WriteLine("Removing substring from a string: " + s1.Remove(3));
+            Console.WriteLine("If String ends with `elo`:" + s1.EndsWith("elo"));
+            Console.WriteLine("If String starts with `hel`:" + s1.StartsWith("Hel"));
+
+            int convertToString = 123;
+            string convertedString = convertToString.ToString();
+            Console.WriteLine("Integer converted to string: " + convertedString);
+
+            string substring = "Hello, Howz you?";
+            Console.WriteLine("Getting subtring from a string: " + substring.Substring(7));
+
+            string replace = substring.Replace("Hello", "Hi!!");
+            Console.WriteLine("After replacing: " + replace);
             Console.ReadLine();
         }
 
