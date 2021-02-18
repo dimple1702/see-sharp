@@ -117,6 +117,9 @@ namespace Arrays
             Program program = new Program();
             program.Params(2, 4, 6, 8, 10, 12, 14, 16);
 
+            // Strings
+            Console.WriteLine("\n---------String--------------");
+
             Console.ReadLine();
         }
 
