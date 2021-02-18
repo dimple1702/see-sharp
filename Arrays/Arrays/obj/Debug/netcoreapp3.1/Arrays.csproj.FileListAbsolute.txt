@@ -1,0 +1,13 @@
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\NetSolutions\git\see-sharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
