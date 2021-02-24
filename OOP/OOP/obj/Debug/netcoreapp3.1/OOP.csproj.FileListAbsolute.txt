@@ -1,0 +1,13 @@
+D:\NetSolutions\git\see-sharp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+D:\NetSolutions\git\see-sharp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+D:\NetSolutions\git\see-sharp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+D:\NetSolutions\git\see-sharp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+D:\NetSolutions\git\see-sharp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+D:\NetSolutions\git\see-sharp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+D:\NetSolutions\git\see-sharp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+D:\NetSolutions\git\see-sharp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+D:\NetSolutions\git\see-sharp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+D:\NetSolutions\git\see-sharp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+D:\NetSolutions\git\see-sharp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+D:\NetSolutions\git\see-sharp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+D:\NetSolutions\git\see-sharp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
