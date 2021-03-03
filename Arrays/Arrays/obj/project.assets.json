@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NetSolutions\\git\\see-sharp\\Arrays\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "E:\\see-sharp\\Arrays\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "D:\\NetSolutions\\git\\see-sharp\\Arrays\\Arrays\\Arrays.csproj",
+      "projectPath": "E:\\see-sharp\\Arrays\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\Atul Verma\\.nuget\\packages\\",
-      "outputPath": "D:\\NetSolutions\\git\\see-sharp\\Arrays\\Arrays\\obj\\",
+      "outputPath": "E:\\see-sharp\\Arrays\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atul Verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

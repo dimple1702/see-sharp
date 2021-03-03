@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NetSolutions\\git\\see-sharp\\Assignment\\Assignment.csproj",
+      "projectUniqueName": "E:\\see-sharp\\Assignment\\Assignment.csproj",
       "projectName": "Assignment",
-      "projectPath": "D:\\NetSolutions\\git\\see-sharp\\Assignment\\Assignment.csproj",
+      "projectPath": "E:\\see-sharp\\Assignment\\Assignment.csproj",
       "packagesPath": "C:\\Users\\Atul Verma\\.nuget\\packages\\",
-      "outputPath": "D:\\NetSolutions\\git\\see-sharp\\Assignment\\obj\\",
+      "outputPath": "E:\\see-sharp\\Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atul Verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

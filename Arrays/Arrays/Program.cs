@@ -72,7 +72,8 @@ namespace Arrays
 
 
             // Multidimensional array
-            int[,] twoDArray = new int[,] { {1,2,3,4},{1,2,3,4}};
+            int[,]  multiDArray = new int[2, 3];
+            int[,] twoDArray = { {1,2,3,4},{1,2,3,4}};
 
             Console.WriteLine("\nPrinting 2D array:");
             for(int i = 0; i < twoDArray.GetLength(0); i++)     // getting lenght of row --> GetLenght(dimension1)
@@ -96,8 +97,8 @@ namespace Arrays
             // Jagged Array
             Console.WriteLine("\n\nJagged Array Example");
             int[][] jaggedArray = new int[4][];
-            jaggedArray[0] = new int[] { 1 };   
-            jaggedArray[1] = new int[] {1, 2};
+            jaggedArray[0] = new int[] { 0 };   
+            jaggedArray[1] = new int[] { 1, 2};
             jaggedArray[2] = new int[] { 3, 4, 5, 6 };
             jaggedArray[3] = new int[] { 7, 8, 9, 10, 11};
 

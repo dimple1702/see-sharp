@@ -11,3 +11,16 @@ D:\NetSolutions\git\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Co
 D:\NetSolutions\git\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
 D:\NetSolutions\git\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
 D:\NetSolutions\git\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+E:\see-sharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+E:\see-sharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+E:\see-sharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+E:\see-sharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+E:\see-sharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+E:\see-sharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+E:\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+E:\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+E:\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+E:\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+E:\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+E:\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+E:\see-sharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache

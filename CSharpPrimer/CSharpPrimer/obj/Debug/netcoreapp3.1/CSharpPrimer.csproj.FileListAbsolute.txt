@@ -1,0 +1,13 @@
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\CSharpPrimer.exe
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\CSharpPrimer.deps.json
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\CSharpPrimer.runtimeconfig.json
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\CSharpPrimer.runtimeconfig.dev.json
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\CSharpPrimer.dll
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\CSharpPrimer.pdb
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.csprojAssemblyReference.cache
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.AssemblyInfoInputs.cache
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.AssemblyInfo.cs
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.csproj.CoreCompileInputs.cache
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.dll
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.pdb
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.genruntimeconfig.cache
