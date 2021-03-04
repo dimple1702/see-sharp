@@ -11,3 +11,7 @@ E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.cspr
 E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.dll
 E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.pdb
 E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.genruntimeconfig.cache
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\OOP.exe
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\OOP.dll
+E:\see-sharp\CSharpPrimer\CSharpPrimer\bin\Debug\netcoreapp3.1\OOP.pdb
+E:\see-sharp\CSharpPrimer\CSharpPrimer\obj\Debug\netcoreapp3.1\CSharpPrimer.csproj.CopyComplete

@@ -1,9 +1,10 @@
-﻿using System;
+﻿using OOP;      // included because we are refering a class from another project to this project.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace CSharpPrimer
-{
+{   // in order to refer a class from different project, we can change the namespace too, but it is a bad practice.
     class Program
     {
         static void MultipleLegs(PetStruct petStruct, PetClass petClass)
@@ -22,15 +23,16 @@ namespace CSharpPrimer
 
             try
             {
-                Console.WriteLine("Hello, This is my first C# program");
-                //WriteLine makes the pointer will point to next line after printing the specified content
-                Console.Write("Enter the value of num: ");
+                Console.Write("Hello, This is my first C# program...");
                 // Write makes the pointer point in the same line after printing the specified content
 
+                Console.WriteLine("I just learned how to print stuff on Console");
+                //WriteLine makes the pointer will point to next line after printing the specified content
+               
                 string myValue = "Dimple";
                 string anotherValue = "Dinky";
 
-                Console.WriteLine("myvalue: " + myValue);
+                Console.WriteLine("\nmyvalue: " + myValue);
                 Console.WriteLine("anotherValue: " + anotherValue);
 
                 anotherValue = myValue;
@@ -41,15 +43,15 @@ namespace CSharpPrimer
 
                 int number1 = 12;
                 int number2 = 23;
-                Console.WriteLine("Addition of numbers: " + (number1 + number2));
+                Console.WriteLine("\nAddition of numbers: " + (number1 + number2));
                 Console.WriteLine("Concatenation of numbers: " + number1 + number2);
 
-                Console.Write("Another way of concatenation: ");
+                Console.Write("\nAnother way of concatenation: ");
                 Console.WriteLine(number1.ToString() + number2.ToString());
                 Console.WriteLine("Size of int: " + sizeof(int));
 
                 int converted = Convert.ToInt32("1");
-                Console.WriteLine("Converted string: " + converted);
+                Console.WriteLine("\nConverted string: " + converted);
 
                 bool isTrue;
                 isTrue = Int32.TryParse("One", out converted);
@@ -59,7 +61,7 @@ namespace CSharpPrimer
                 //Taking input from user
                 int num1 = 0, num2 = 0;
 
-                Console.Write("Enter num1: ");
+                Console.Write("\nEnter num1: ");
                 string sNum1 = Console.ReadLine();
 
                 Console.Write("Enter num2: ");
@@ -73,19 +75,19 @@ namespace CSharpPrimer
 
                 int num;    // Declaring a Variable
 
-                Console.Write("Taking input from user directly as number. Enter a number: ");
+                Console.Write("\nTaking input from user directly as number. Enter a number: ");
                 num = Convert.ToInt32(Console.ReadLine());  // Taking input from user
                 Console.WriteLine("You have entered 'num': " + num);  // You can concatenate the strings and data
 
                 int num3 = 2; // Declaring and initializing a variable
-                Console.WriteLine("Value of num1 is: " + num3);
+                Console.WriteLine("\nValue of num1 is: " + num3);
 
                 num = 10;   // you can modify the value of variable
                 Console.WriteLine("Value of num becomes: " + num);
 
 
                 double d1 = num1;
-                Console.WriteLine("num1 in double form: " + d1);    // Implicit type-conversion
+                Console.WriteLine("\nnum1 in double form: " + d1);    // Implicit type-conversion
 
                 double d2 = 123.45;
                 int num4 = (int)d2;     // Explicit type-conversion
@@ -96,7 +98,7 @@ namespace CSharpPrimer
 
                 // constant declaration 
                 double r;
-                Console.Write("Enter Radius: ");
+                Console.Write("\nEnter Radius: ");
                 r = Convert.ToDouble(Console.ReadLine());
 
                 double areaCircle = pi * r * r;
@@ -275,6 +277,15 @@ namespace CSharpPrimer
             }
             finally
             {
+                SampleClass obj = new SampleClass();
+                /*
+                 Creating an object of a class that is defined in a different project but it refered to this project
+                 Without including the project reference in the class you can also write: 
+                */
+                OOP.SampleClass obj2 = new OOP.SampleClass();
+
+                Console.WriteLine("\n" + obj.someValue());
+
                 Console.WriteLine("Your Programs ends here!!");
                 Console.ReadLine();
             }

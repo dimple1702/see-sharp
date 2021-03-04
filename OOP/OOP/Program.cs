@@ -12,7 +12,7 @@ namespace OOP
         public string hello = "Hello!!";  // can have non-abstract menmbers
         public abstract void print();
         public void display() {
-            Console.WriteLine("Yoii!!");
+            Console.WriteLine("Yoii!! I'm in display function of abstract class..");
         }
         
     }
@@ -25,9 +25,9 @@ namespace OOP
 
         public void GetParameters()
         {
-            Console.WriteLine("Enter Length: ");
+            Console.Write("Enter Length: ");
             length = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter Width: ");
+            Console.Write("Enter Width: ");
             width = Convert.ToDouble(Console.ReadLine());
         }
         public double GetArea()
@@ -48,7 +48,7 @@ namespace OOP
             
         public override void print()       // override specifies that we are defining the abstract method
         {
-            Console.WriteLine("Defining the method from abstract class");
+            Console.WriteLine("Defining the method from abstract class in main method..");
         }
         static void Main(string[] args)
         {
@@ -60,9 +60,17 @@ namespace OOP
             r.Display();
 
             // calling abstract method:
-            AbstractClass abClass = new Program();      // we can also write --> Program p = new PRogram();
+            Console.WriteLine();
+            AbstractClass abClass = new Program();      // we can also write --> Program p = new Program();
+            abClass.display();
             abClass.print();
 
+            // creating object of another class from outside this file
+            SampleClass sampleObject1 = new SampleClass();
+            Console.WriteLine("\nSum of numbers(default): " + sampleObject1.Calculate());
+
+            SampleClass sampleObject2 = new SampleClass(10, 20);
+            Console.WriteLine("Sum of numbers(passed as parameter): " + sampleObject2.Calculate());
 
             Console.ReadLine();
 
